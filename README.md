@@ -24,9 +24,9 @@ Each problem is categorized based on difficulty and topic for easy navigation:
 | #   | Problem Name                                                                 | Difficulty | Solution |
 | --- | ----------------------------------------------------------------------------- | ---------- | -------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                             | Easy       | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)             | Medium     | [Solution](Solutions/0000-0099/1.%20Add%20Two%20Sum/solution.md) |
-| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
-| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard       | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)             | Medium     | [Solution](Solutions/0000-0099/2.%20Add%20Two%20Sum/solution.md) |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [Solution](Solutions/0000-0099/3.%20Longest %20Substring%20Without%20Repeating%20Characters /solution.md) |
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard       | [Solution](Solutions/0000-0099/4.%20Median%20of%20Two%20Sorted%20Arrays/solution.md) |
 | 5   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)         | Easy       | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
 | 6   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
 | 7   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium     | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
@@ -35,6 +35,22 @@ Each problem is categorized based on difficulty and topic for easy navigation:
 | 10  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium     | [Solution](Solutions/0000-0099/1.%20Two%20Sum/solution.md) |
 
 -->
+## 📋 Problem Table
+
+
+| #   | Question Title                    | Difficulty  | Solution Link                                                                 |
+|-----|------------------------------------|-------------|-------------------------------------------------------------------------------|
+| 1   | Two Sum                            | Easy        | [Solution](./Solutions/0001-0099/1-Two-Sum/solution.md)                        |
+| 2   | Add Two Numbers                    | Medium      | [Solution](./Solutions/0001-0099/2-Add-Two-Numbers/solution.md)                |
+| 3   | Longest Substring Without Repeating Characters | Medium      | [Solution](./Solutions/0001-0099/3-Longest-Substring-Without-Repeating/solution.md) |
+| 4   | Median of Two Sorted Arrays        | Hard        | [Solution](./Solutions/0001-0099/4-Median-of-Two-Sorted-Arrays/solution.md)    |
+| 5   | Longest Palindromic Substring      | Medium      | [Solution](./Solutions/0001-0099/5-Longest-Palindromic-Substring/solution.md)  |
+| 6   | ZigZag Conversion                  | Medium      | [Solution](./Solutions/0001-0099/6-ZigZag-Conversion/solution.md)              |
+| 7   | Reverse Integer                    | Medium      | [Solution](./Solutions/0001-0099/7-Reverse-Integer/solution.md)                |
+| 8   | String to Integer (atoi)           | Medium      | [Solution](./Solutions/0001-0099/8-String-to-Integer/solution.md)              |
+| 9   | Palindrome Number                  | Easy        | [Solution](./Solutions/0001-0099/9-Palindrome-Number/solution.md)              |
+| 10  | Regular Expression Matching        | Hard        | [Solution](./Solutions/0001-0099/10-Regular-Expression-Matching/solution.md)   |
+
     
 ## 🧑‍💻 How to Use?
 
