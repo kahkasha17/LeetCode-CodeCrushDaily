@@ -3,7 +3,7 @@
 
 | #   | Question Title                    | Difficulty  | Solution Link                                                                                 |
 |-----|------------------------------------|-------------|-----------------------------------------------------------------------------------------------|
-| 1   | Two Sum                            | Easy        | [Solution](./Solutions/0000-0099/1.%20Two%20Sum/solution.md)                                  |
+| 1   | Two Sum                            | Easy        | [Solution](./0000-0099/1.%20Two%20Sum/solution.md)                                  |
 | 2   | Add Two Numbers                    | Medium      | [Solution](./Solutions/0000-0099/2.%20Add%20Two%20Numbers/solution.md)                        |
 | 3   | Longest Substring Without Repeating Characters | Medium      | [Solution](./Solutions/0000-0099/3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.md)  |
 | 4   | Median of Two Sorted Arrays        | Hard        | [Solution](./Solutions/0000-0099/4.%20Median%20of%20Two%20Sorted%20Arrays/solution.md)        |
