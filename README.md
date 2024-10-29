@@ -16,11 +16,6 @@ Welcome to my **LeetCode Solutions** repository! 👩‍💻 Here, you'll find m
    ```bash
    git clone https://github.com/kahkasha17/LeetCode-CodeCrushDaily.git
 
-## 🧑‍💻 How to Use?
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/kahkasha17/LeetCode-CodeCrushDaily.git
    
 ## 🔗 Let's Connect!
 
