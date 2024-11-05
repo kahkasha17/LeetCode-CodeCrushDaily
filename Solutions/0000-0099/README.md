@@ -36,7 +36,7 @@
 | 31  | Next Permutation                                  | Medium      | [Solution](./0031.%20Next%20Permutation/solution.md)                                  |
 | 32  | Longest Valid Parentheses                         | Hard        | [Solution](./0032.%20Longest%20Valid%20Parentheses/solution.md)                        |
 | 33  | Search in Rotated Sorted Array                    | Medium      | [Solution](./0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.md)               |
-| 34  | Find First and Last Position of Element in Sorted Array | Medium  | [Solution](./0034.%20Find%20First%20and%20Last%20Position%20of%20Element/solution.md)  |
+| 34  | Find First and Last Position of Element in Sorted Array | Medium  | [Solution](./0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/solution.md)  |
 | 35  | Search Insert Position                            | Easy        | [Solution](./0035.%20Search%20Insert%20Position/solution.md)                           |
 | 36  | Valid Sudoku                                      | Medium      | [Solution](./0036.%20Valid%20Sudoku/solution.md)                                       |
 | 37  | Sudoku Solver                                     | Hard        | [Solution](./0037.%20Sudoku%20Solver/solution.md)                                      |
